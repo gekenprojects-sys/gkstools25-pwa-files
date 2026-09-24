@@ -2,7 +2,7 @@
   "name": "GKSTools25 App",
   "short_name": "GKSTools25",
   "description": "Herramientas y Aplicaciones de GKS",
-  "start_url": "/index.html", 
+  "start_url": "https://gkstools25.kesug.com", 
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#dc2626",
